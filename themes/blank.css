@@ -1,0 +1,38 @@
+<style>
+		/**
+		** PG CTA Theme Stylesheet
+		**/
+
+.pgcta-structure-container{
+	display:block;
+	padding: 10px 25px;
+	width: auto;
+	height:66px;
+}
+
+.pgcta-structure-image{
+	display:block;
+	width:93px;
+	float:left;
+	margin-top:5px;
+}
+
+.pgcta-structure-messagebox{
+	float:right;
+	display:block;
+	width:460px;
+	margin-top:10px;
+}
+
+.pgcta-message-toptext{
+	display:block;
+	font-size:25px;
+	font-family:Arial;
+}
+.pgcta-message-bottomtext{
+	margin-top:10px;
+	display:block;
+	font-size:25px;
+	font-family:Arial;
+}
+</style>
